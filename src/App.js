@@ -19,7 +19,7 @@ function App() {
           <meta property="og:title" content="Resume Builder - Create Professional Resumes Online" />
           <meta property="og:description" content="Build and customize professional resumes online with Resume Builder. Choose from a variety of templates and create your perfect resume easily." />
           <meta property="og:image" content="https://avatars.githubusercontent.com/u/130897584?v=4" />
-          <meta property="og:url" content="https://quick-resume.netlify.app/" />
+          <meta property="og:url" content="https://resume-builder-pro.vercel.app/" />
           <meta property="og:type" content="website" />
         </Helmet>
         <Navbar />
