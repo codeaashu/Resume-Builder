@@ -12,7 +12,7 @@
   <h4 align="center">✦ Create your Resume in minutes! ✦</h4>
   
   ` Resume Builder is a Web App where users can easily create professional and personalized resumes. `
-<hr><img src="./Branding/Mockup.png" width="500px" />
+<hr><img src="./Branding/Mockup.png" />
 
   ` Features 🌟 `
 </div>
