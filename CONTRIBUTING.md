@@ -36,7 +36,7 @@ We welcome code contributions from the community. To get started:
 
 ## Getting Started
 
-If you're new to Resume Builder, you can explore all features and give us feedback at hardikdesaitech@gmail.com
+If you're new to Resume Builder, you can explore all features and give us feedback at hellow.ashutosh@gmail.com
 
 ## Commit Guidelines
 
