@@ -7,7 +7,7 @@
 
 <hr>
   <h1 align="center">📋 Introducing to Resume Builder 📋</h1>
-  <img src="./Branding/Home Page Dark.png" width="100px" />
+  <img src="./Branding/logo.png" width="100px" />
   <br><a href="https://helpmate-ai.vercel.app/"><strong>HELPMATE - AI</strong></a>
   <h4 align="center">✦ Let's take help with your AI mate! ✦</h4>
   
