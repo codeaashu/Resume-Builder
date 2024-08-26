@@ -37,7 +37,7 @@
 
 This project is licensed under the NPM or MIT - see the [LICENSE](LICENSE) file for details. <hr>
 
-` Getting Started 🚀 Setup Procedure ⚙️ `
+` Getting Started 🚀 Setup Procedure ⚙️ `</div>
 
 1. Clone this repository to your local machine
 ```bash
@@ -57,7 +57,7 @@ npm run start
 ```
 5. Open http://localhost:3000 in your browser to see the application running<hr>
   
-`How can you contribute in this projects? 🫱🏻‍🫲🏼`
+<div align="center">`How can you contribute in this projects? 🫱🏻‍🫲🏼`
 
 If you have a good knowledge in Tailwind CSS or React JS and want to contribute in this project just forked this repository and the improve the 𝐔𝐈 of Helpmate and then feel free to open an issue or submit a pull request. I reviewed your changes update and then merge your pull request. Please make sure to follow the existing code style and guidelines.
 
