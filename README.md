@@ -14,7 +14,7 @@
   ` Resume Builder is a Web App where users can easily create professional and personalized resumes. `
 <hr><img src="./Branding/Mockup.png" />
  <details>
-    <summary>View Resume Builder Snapshot</summary><br>
+    <summary>View Resume Builder Snapshot</summary>
 
 ###### Home Page
 <img src="./Branding/Home Page Dark.png" />
@@ -73,8 +73,9 @@ npm install
 ```bash
 npm run start
 ```
-5. Open http://localhost:3000 in your browser to see the application running<hr><div align="center">
-
+5. Open http://localhost:3000 in your browser to see the application running<hr>
+<div align="center">
+  
 `Contributions 🫱🏻‍🫲🏼`
 
 We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
