@@ -76,11 +76,11 @@ npm run start
 5. Open http://localhost:3000 in your browser to see the application running<hr>
 <div align="center">
   
-`Contributions 🫱🏻‍🫲🏼`
+` Contributions 🫱🏻‍🫲🏼 `
 
 We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
 
-`Don't forget to give star this repository ⭐`
+`Don't forget to give A star to this repository ⭐`
 
 
 `👍🏻 All Set! 💌`
