@@ -8,8 +8,8 @@
 <hr>
   <h1 align="center">📋 Introducing to Resume Builder 📋</h1>
   <img src="./Branding/logo.png" width="100px" />
-  <br><a href="https://helpmate-ai.vercel.app/"><strong>HELPMATE - AI</strong></a>
-  <h4 align="center">✦ Let's take help with your AI mate! ✦</h4>
+  <br><a href="https://resume-builder-pro.vercel.app/"><strong>Resume Builder</strong></a>
+  <h4 align="center">✦ Create your Resume in minutes! ✦</h4>
   
   ` Helpmate is a AI ChatBot web app where you can ask any question and you will get the answer. `
 <hr><img src="./public/Helpmate Mockup.png"/>
