@@ -29,7 +29,7 @@ export default function Introduction() {
                 <meta name="robots" content="index,follow" />
                 <meta name="author" content="Ashutosh Singh" />
                 <meta property="og:image" content="https://avatars.githubusercontent.com/u/130897584?v=4" />
-                <meta property="og:url" content="https://quick-resume.netlify.app/about" />
+                <meta property="og:url" content="https://resume-builder-pro.vercel.app/" />
                 <meta property="og:type" content="website" />
             </Helmet>
 

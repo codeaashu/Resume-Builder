@@ -3,7 +3,7 @@
   "name": "Create your Resume in minutes",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "logo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
@@ -24,5 +24,5 @@
   "background_color": "#ffffff",
   "description": "Build and customize professional resumes online with Resume Builder. Choose from a variety of templates and create your perfect resume easily.",
   "keywords": "resume builder, professional resumes, online resumes, resume templates",
-  "author": "Hardik Desai"
+  "author": "Ashutosh Singh"
 }
