@@ -13,6 +13,26 @@
   
   ` Resume Builder is a Web App where users can easily create professional and personalized resumes. `
 <hr><img src="./Branding/Mockup.png" />
+ <details>
+    <summary>View Resume Builder Snapshot</summary>
+    <a href="#"><img src="./public/technologist.png" width="150"></a> <br>
+
+###### Home Page
+<img src="./Branding/Home Page Dark.png" />
+
+###### Select Template Page
+<img src="./Branding/Resume Template.png" />
+
+###### Resume Builder Page
+<img src="./Branding/Resume Crafting.png" />
+
+###### About Page
+<img src="./Branding/About Us.png" />
+
+###### Light Mode
+<img src="./Branding/Home Page Light.png" />
+</details><hr>
+
 
   ` Features 🌟 `
 </div>
@@ -55,10 +75,9 @@ npm install
 ```bash
 npm run start
 ```
-5. Open http://localhost:3000 in your browser to see the application running<hr>
+5. Open http://localhost:3000 in your browser to see the application running<hr><div align="center">
 
-  
-<div align="center">`Contributions 🫱🏻‍🫲🏼`
+`Contributions 🫱🏻‍🫲🏼`
 We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
 
 `Don't forget to give star this repository ⭐`
