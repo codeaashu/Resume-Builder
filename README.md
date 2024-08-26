@@ -56,10 +56,10 @@ npm install
 npm run start
 ```
 5. Open http://localhost:3000 in your browser to see the application running<hr>
-  
-<div align="center">`How can you contribute in this projects? 🫱🏻‍🫲🏼`
 
-If you have a good knowledge in Tailwind CSS or React JS and want to contribute in this project just forked this repository and the improve the 𝐔𝐈 of Helpmate and then feel free to open an issue or submit a pull request. I reviewed your changes update and then merge your pull request. Please make sure to follow the existing code style and guidelines.
+  
+<div align="center">`Contributions 🫱🏻‍🫲🏼`
+We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
 
 `Don't forget to give star this repository ⭐`
 
