@@ -78,7 +78,7 @@ npm run start
   
 ` Contributions 🫱🏻‍🫲🏼 `
 
-We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
+We believe in the power of open-source contribution. so If you have a solid knowledge of React and you're interested in contributing to this project, I’d love to see what you can bring to the table. Feel free to fork the repository, add your resume template, and submit a pull request. Your contribution will be greatly appreciated. & Don't forget to install it on your devices Phone, Tablet, Laptop, PC anywhere you use.
 
 `Don't forget to give A star to this repository ⭐`
 
