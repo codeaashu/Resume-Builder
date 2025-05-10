@@ -9,7 +9,7 @@ import ResumeContext from '../../Context/ResumeContext'
 const Theme1 = (props) => {
     const { checkProj, checkWork, checkAward } = useContext(ResumeContext)
     const { themeData, componentRef } = props;
-    const { name, profile, address, phone, email, skill } = themeData.personalData;
+    const { name, profile, address, phone, email, skill, summary } = themeData.personalData;
     const { projectTitles, projectDesc } = themeData.projectData;
     const { educationTitles, educationDesc } = themeData.educationData;
     const { workTitles, workDesc } = themeData.workData;
@@ -31,6 +31,9 @@ const Theme1 = (props) => {
                         <Heading as='h3' size='md' className='mt-1 mb-2'>
                             {profile}
                         </Heading>
+                        <Text fontSize='md' className='my-2'>
+                          {summary}
+                        </Text>
                     </header>
                     {/* Skills Part  */}
                     <section id="skills" className='my-2'>
