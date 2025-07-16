@@ -32,6 +32,61 @@
 <img src="./Branding/Home Page Light.png" />
 </details><hr>
 
+## 🚀 Features
+
+### 🎙️ 1. Simulate Real-Time Interviews  
+Experience hyper-realistic, **voice-based interviews** with intelligent AI agents that mimic real interviewers — pressure and unpredictability included.
+
+### 🧠 2. Personalized Feedback  
+Get **instant, actionable insights** based on your tone, confidence, and clarity using real-time speech analysis.  
+Antriview gives you the feedback that real interviewers never do — brutally honest, growth-focused, and always improving.
+
+### 📊 3. Track Your Progress  
+Monitor your communication skills with **visual analytics**, track your journey, and pinpoint **strengths and weaknesses**. Know exactly where you're growing — and where you need to level up.
+
+### ⚡ 4. Fast Interview Creation  
+Create full mock interviews in seconds using **conversational AI**.  
+Skip the setup — just speak, and your personalized session begins.
+
+### 🏫 5. Scalable for Institutions & Professionals  
+Built for **universities, bootcamps, and career services**. Antriview offers bulk access, admin dashboards, and **performance insights** at scale.  
+Because the future of hiring prep is not 1:1 — it’s scalable, smart, and voice-powered.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔷 Frontend (UI & Real-Time Voice Interaction)
+- **Next.js** – React-based framework for scalable frontends  
+- **TypeScript** – Type-safe development  
+- **Tailwind CSS** – Utility-first CSS for responsive styling  
+- **shadcn/ui** – Accessible, modern UI components  
+- **Vapi AI SDK** – Real-time voice assistant integration  
+- **Zod** – Schema validation & safe form handling
+
+### 🔶 Backend (Logic & AI Operations)
+- **Next.js API Routes** – Serverless backend logic  
+- **Firebase Authentication** – Secure auth (Email, Google)  
+- **Firebase Cloud Functions** – AI handling, session management, feedback logic
+
+### 🔵 Database (Persistent User & Interview Data)
+- **Firebase Firestore** – NoSQL, real-time DB  
+  - Stores: user profiles, interview responses, generated questions, feedback reports
+
+### 🤖 AI & NLP (Voice Simulation & Feedback Intelligence)
+- **Vapi AI** – Voice-based AI interviewer (input/output)  
+- **Google Gemini API** – Natural language processing to:  
+  - Generate adaptive interview questions  
+  - Analyze spoken responses  
+  - Deliver smart, contextual feedback  
+  - Continuously learn from user performance
+
+---
+
+💡 _Antriview is not just a product. It’s a new standard in interview preparation._  
+**"Your Ruthless, Real-Time AI Interviewer — Built for Pressure. Not Just Practice."**
+
+
   ` Features 🌟 `
 </div>
 
